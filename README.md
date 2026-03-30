@@ -22,10 +22,7 @@
 * **Tools:** Git, Linux
 
 ---
-## 📊 GitHub Stats
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf&theme=tokyonight)
+## 📊 GitHub S
 
 ## 📌 Current Focus
 

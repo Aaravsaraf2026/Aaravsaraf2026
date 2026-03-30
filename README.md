@@ -26,7 +26,7 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf2026&theme=tokyonight)
-
+![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Aaravsaraf2026&show_icons=true&cache_seconds=1800)
 
 
 ## 📌 Current Focus

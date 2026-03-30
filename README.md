@@ -21,8 +21,13 @@
 * **DevOps:** Docker
 * **Tools:** Git, Linux
 
----
-## 📊 GitHub S
+
+## 📊 GitHub Stats
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf&theme=tokyonight)
+
+
 
 ## 📌 Current Focus
 

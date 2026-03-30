@@ -25,7 +25,7 @@
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf2026&theme=tokyonight)
 
 
 

@@ -1,51 +1,32 @@
+
 # Hi, I'm Aarav 👋
 
-🚀 Backend Engineer focused on building scalable, production-ready systems.
+Backend Developer — FastAPI | Redis | PostgreSQL
 
 ---
 
 ## ⚡ About Me
 
-* 🔧 Working with **FastAPI, Docker, PostgreSQL**
-* 🧠 Learning system design & backend architecture
-* 📦 Interested in **APIs, caching, databases, and performance**
-* 🛠 Building and shipping real-world backend projects
-* 📢 Planning to share knowledge (GitHub + YouTube)
+* 🔧 Working with FastAPI, Docker, PostgreSQL
+* 🧠 Exploring backend systems & architecture
+* 🛠 Building real backend projects
 
 ---
-
-## 🧰 Tech Stack
-
-* **Backend:** FastAPI, Python
-* **Database:** PostgreSQL, Redis
-* **DevOps:** Docker
-* **Tools:** Git, Linux
-
 
 ## 📊 GitHub Stats
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf2026&theme=tokyonight)
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=Aaravsaraf2026&show_icons=true&cache_seconds=1800)
-
-
-## 📌 Current Focus
-
-* Scalable API design
-* Caching strategies (Redis)
-* Clean architecture & best practices
+![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf2026\&theme=tokyonight)
 
 ---
 
+## 📌 Focus
 
----
-
-## 🤝 Connect / Follow
-
-* Follow my journey — building, learning, sharing.
+* Scalable APIs
+* Caching (Redis)
+* Clean backend architecture
 
 ---
 
 ## 💡 Philosophy
 
-> Build. Break. Learn. Repeat.
+> Build. Break. Fix. Repeat.
